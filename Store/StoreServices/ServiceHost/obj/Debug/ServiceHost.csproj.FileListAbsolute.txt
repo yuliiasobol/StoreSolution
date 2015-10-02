@@ -12,3 +12,14 @@ C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\bin\Debug\Ser
 C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\bin\Debug\nunit-color-console.exe
 C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\obj\Debug\ServiceHost.exe
 C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\bin\Debug\nunit-color-console.exe
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\bin\Debug\StoreServicesLibrary.dll
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\bin\Debug\DTOLibraries.dll
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\bin\Debug\StoreServicesLibrary.pdb
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\bin\Debug\DTOLibraries.pdb
+C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache

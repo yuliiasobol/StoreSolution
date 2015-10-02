@@ -1,0 +1,8 @@
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\StoreServicesLibrary\bin\Debug\StoreServicesLibrary.dll
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\StoreServicesLibrary\bin\Debug\StoreServicesLibrary.pdb
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\StoreServicesLibrary\bin\Debug\DTOLibraries.dll
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\StoreServicesLibrary\bin\Debug\nunit-color-console.exe
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\StoreServicesLibrary\bin\Debug\DTOLibraries.pdb
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\StoreServicesLibrary\obj\Debug\StoreServicesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\StoreServicesLibrary\obj\Debug\StoreServicesLibrary.dll
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\StoreServicesLibrary\obj\Debug\StoreServicesLibrary.pdb

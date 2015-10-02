@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nunit-color-console</id>
+    <version>0.1.0.0</version>
+    <title>nunit-color-console</title>
+    <authors>remi Taylor</authors>
+    <owners>remi Taylor</owners>
+    <projectUrl>https://github.com/remi/nunit-color-console</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tiny wrapper around nunit-console.exe that adds colors</description>
+    <summary>Tiny wrapper around nunit-console.exe that adds colors</summary>
+  </metadata>
+</package>

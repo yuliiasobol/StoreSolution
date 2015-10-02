@@ -1,0 +1,14 @@
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\ServiceHost\bin\Debug\StoreServices.dll
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\ServiceHost\bin\Debug\StoreServices.pdb
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\bin\Debug\nunit-color-console.exe
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\ServiceHost\obj\Debug\ServiceHost.pdb

@@ -1,0 +1,5 @@
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\DBLayoutLibrary\bin\Debug\DBLayoutLibrary.dll
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\DBLayoutLibrary\bin\Debug\DBLayoutLibrary.pdb
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\DBLayoutLibrary\bin\Debug\nunit-color-console.exe
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\DBLayoutLibrary\obj\Debug\DBLayoutLibrary.dll
+C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\DBLayoutLibrary\obj\Debug\DBLayoutLibrary.pdb

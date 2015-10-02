@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>VScodePrint2015</id>
+    <version>14.0.8</version>
+    <title>VScodePrint 2015 - Color Printing</title>
+    <authors>Starprint Limited</authors>
+    <owners>Starprint Limited</owners>
+    <licenseUrl>http://www.starprinttools.com/doc/vscodeprint_2015_license.pdf</licenseUrl>
+    <projectUrl>http://www.starprinttools.com/</projectUrl>
+    <iconUrl>http://www.starprinttools.com/icon/vscodeprint_32x32.bmp</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>VScodePrint 2015 extends Microsoft® Visual Studio 2015 that can be used to produce professional style color coded printouts of the source code of .NET applications written using Visual Basic, C#, J#, C++ and ASP.NET.  
+
+Highlights
+
+· Present your work the way it should be presented  
+
+· Produce professional style output 
+
+· Impress your clients with color coded printout of your projects and enjoy repeat business 
+
+· Output is ideal for code reviews/inspections 
+
+· Use output in your presentations and handouts 
+
+· Output is great for debugging and supporting 
+
+· Fully integrated with Visual Studio Editor 
+
+· Output can be exported to RTF and secure PDF</description>
+    <summary>Print source code in color and export output to PDF.</summary>
+    <copyright>(c)2015 Starprint Limited</copyright>
+    <language>en-GB</language>
+    <tags>Print color sourcecode</tags>
+  </metadata>
+</package>

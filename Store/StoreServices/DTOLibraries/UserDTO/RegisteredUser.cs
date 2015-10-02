@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DTOLibraries.UserDTO
 {
-	class RegisteredUser
+	public class RegisteredUser:User
 	{
 	}
 }

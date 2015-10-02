@@ -6,6 +6,5 @@ C:\Users\v-ysobol\Documents\GitHub\Store\StoreServices\DTOLibraries\obj\Debug\DT
 C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\DTOLibraries\bin\Debug\DTOLibraries.dll
 C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\DTOLibraries\bin\Debug\DTOLibraries.pdb
 C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\DTOLibraries\bin\Debug\nunit-color-console.exe
-C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\DTOLibraries\obj\Debug\DTOLibraries.csprojResolveAssemblyReference.cache
 C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\DTOLibraries\obj\Debug\DTOLibraries.dll
 C:\Users\v-ysobol\Documents\GitHub\StoreSolution\StoreSolution\Store\StoreServices\DTOLibraries\obj\Debug\DTOLibraries.pdb
